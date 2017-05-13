@@ -1,6 +1,6 @@
 {
   "name": "node-root.pddivine",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Easy, lightweight determiner of the project root to be dropped into any node module.",
   "main": "index.js",
   "scripts": {
