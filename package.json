@@ -4,7 +4,7 @@
   "description": "Easy, lightweight determiner of the project root to be dropped into any node module.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./test/_spec.js"
   },
   "repository": {
     "type": "git",
